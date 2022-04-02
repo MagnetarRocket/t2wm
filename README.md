@@ -3,7 +3,7 @@ Easy to obtain mirror of an twm 1.0.7 varient with compositing suport.
 
 ## notes:
 
-Currently on big-sur, it brings up an error:
+Currently on big-sur on m1, it brings up an error:
 ```
 In file included from add_window.c:63:
 ./twm.h:74:10: fatal error: 'X11/StringDefs.h' file not found
