@@ -18,7 +18,7 @@ cp: src/twm: No such file or directory
 cp: man/twm.1: No such file or directory
 error: /Library/Developer/CommandLineTools/usr/bin/strip: can't open file: twm (No such file or directory)
 ```
-aside from that, much of it passes through, espichaly after a decade and two years.
+aside from that, much of it passes through, especially after a decade and two years. should update the base version though (a true fork possibly?)
 
 ### edits: 
 
