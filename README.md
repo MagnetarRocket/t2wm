@@ -1,5 +1,5 @@
 # t2wm
-Easy to obtain mirror of an twm varient with compositing suport. 
+Easy to obtain mirror of an twm 1.0.7 varient with compositing suport. 
 
 ## notes:
 
