@@ -1,2 +1,6 @@
 # t2wm
-easy obtain mirror of an twm varient with transparency.
+Easy to obtain mirror of an twm varient with compositing suport. 
+
+##edits: 
+
+TWM-Tweaked.sh altered in name to t2wm-install.sh and one line altered.
