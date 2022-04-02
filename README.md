@@ -3,6 +3,8 @@ Easy to obtain mirror of an twm 1.0.7 varient with compositing suport.
 
 ## notes:
 
+all requests should go here, any that go to original will be ignored.
+
 Currently on big-sur on m1, it brings up an error:
 ```
 In file included from add_window.c:63:
